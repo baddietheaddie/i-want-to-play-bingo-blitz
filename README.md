@@ -1,2 +1,2 @@
-# i-want-to-play-bingo-blitz
+# dress-to-impress
 this repository is for computing II. 
